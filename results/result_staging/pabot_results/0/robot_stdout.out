@@ -1,0 +1,33 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.LoginAndroid                                                           
+==============================================================================
+[ DataDriver ] Initialized in csv-mode.
+[ DataDriver ] Reader Module: <module 'DataDriver.csv_reader' from '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/DataDriver/csv_reader.py'>
+[ DataDriver ] Opening file '/Users/giauthe/Documents/Pythonn Practice/testcases/Login/../../testdata/LoginData/login_data.csv'
+[ DataDriver ] 5 Test Cases loaded...
+[ DataDriver ] data Table created
+[ DataDriver ] 5 tests added.
+TC Adnroid - Right user empty pass                                    | PASS |
+------------------------------------------------------------------------------
+TC Adnroid - Right user wrong pass                                    | PASS |
+------------------------------------------------------------------------------
+TC Adnroid - Wrong user right pass                                    | PASS |
+------------------------------------------------------------------------------
+TC Adnroid - Wrong user empty pass                                    | PASS |
+------------------------------------------------------------------------------
+TC Adnroid - Wrong user wrong pass                                    | FAIL |
+Variable '${txt_err_username_password_messages}' not found. Did you mean:
+    ${txt_err_username_password_message}
+    ${adr_txt_err_username_password_message}
+------------------------------------------------------------------------------
+Suites.LoginAndroid                                                   | FAIL |
+5 critical tests, 4 passed, 1 failed
+5 tests total, 4 passed, 1 failed
+==============================================================================
+Suites                                                                | FAIL |
+5 critical tests, 4 passed, 1 failed
+5 tests total, 4 passed, 1 failed
+==============================================================================
+Output:  /Users/giauthe/Documents/Pythonn Practice/results/result_staging/pabot_results/0/output.xml

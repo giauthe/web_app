@@ -1,0 +1,30 @@
+==============================================================================
+Suites                                                                        
+==============================================================================
+Suites.LoginIos                                                               
+==============================================================================
+[ DataDriver ] Initialized in xlsx-mode.
+[ DataDriver ] Reader Module: <module 'DataDriver.xlsx_reader' from '/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/DataDriver/xlsx_reader.py'>
+[ DataDriver ] Opening file '/Users/giauthe/Documents/Pythonn Practice/testcases/Login/../../testdata/LoginData/login_data.xlsx'
+[ DataDriver ] 5 Test Cases loaded...
+[ DataDriver ] data Table created
+[ DataDriver ] 5 tests added.
+TC Ios - Right user empty pass                                        | PASS |
+------------------------------------------------------------------------------
+TC Ios - Right user wrong pass                                        | PASS |
+------------------------------------------------------------------------------
+TC Ios - Wrong user right pass                                        | PASS |
+------------------------------------------------------------------------------
+TC Ios - Wrong user empty pass                                        | PASS |
+------------------------------------------------------------------------------
+TC Ios - Wrong user wrong pass                                        | PASS |
+------------------------------------------------------------------------------
+Suites.LoginIos                                                       | PASS |
+5 critical tests, 5 passed, 0 failed
+5 tests total, 5 passed, 0 failed
+==============================================================================
+Suites                                                                | PASS |
+5 critical tests, 5 passed, 0 failed
+5 tests total, 5 passed, 0 failed
+==============================================================================
+Output:  /Users/giauthe/Documents/Pythonn Practice/results/result_staging/pabot_results/1/output.xml

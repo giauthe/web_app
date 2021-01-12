@@ -1,0 +1,4 @@
+#for API
+run_on_failure: Capture Page Screenshot
+address:  http://localhost:4723/wd/hub
+webdriver: headlesschrome
